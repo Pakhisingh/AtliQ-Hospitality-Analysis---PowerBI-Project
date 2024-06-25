@@ -15,14 +15,10 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 **General Analysis View**
-https://github.com/Pakhisingh/AtliQ-Hospitality-Analysis-PowerBI-Project/blob/main/General%20Analysis.jpeg
 ![General Analysis](https://github.com/Pakhisingh/AtliQ-Hospitality-Analysis-PowerBI-Project/assets/99542327/f3d71589-6443-4ad9-b67f-4a3b57da6851)
 
 **Monthly Analysis View**
-https://github.com/Pakhisingh/AtliQ-Hospitality-Analysis-PowerBI-Project/blob/main/Monthly%20Analysis.jpeg
+![Monthly Analysis](https://github.com/Pakhisingh/AtliQ-Hospitality-Analysis-PowerBI-Project/assets/99542327/98fdd738-bcae-4b06-8dd7-2320b4f30f0b)
 
 **Additional Insights**
-https://github.com/Pakhisingh/AtliQ-Hospitality-Analysis-PowerBI-Project/blob/main/Additional%20Insights.jpeg
-
-
-
+![Additional Insights](https://github.com/Pakhisingh/AtliQ-Hospitality-Analysis-PowerBI-Project/assets/99542327/838495a6-e417-4f20-97e5-7a31658d44a7)
