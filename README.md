@@ -16,10 +16,13 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 **General Analysis View**
 https://github.com/Pakhisingh/AtliQ-Hospitality-Analysis-PowerBI-Project/blob/main/General%20Analysis.jpeg
+![General Analysis](https://github.com/Pakhisingh/AtliQ-Hospitality-Analysis-PowerBI-Project/assets/99542327/f3d71589-6443-4ad9-b67f-4a3b57da6851)
 
 **Monthly Analysis View**
 https://github.com/Pakhisingh/AtliQ-Hospitality-Analysis-PowerBI-Project/blob/main/Monthly%20Analysis.jpeg
 
 **Additional Insights**
 https://github.com/Pakhisingh/AtliQ-Hospitality-Analysis-PowerBI-Project/blob/main/Additional%20Insights.jpeg
+
+
 
